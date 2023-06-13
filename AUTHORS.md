@@ -1,1 +1,2 @@
 Mateusz Stachura
+Jakub Krawczyk
